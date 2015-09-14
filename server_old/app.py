@@ -1,5 +1,8 @@
 #-*- coding: utf-8 -*-
 
+# 작성자 : 강성훈
+# 최초 작성 @ 2015.06.25
+
 from flask import Flask, Response, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
